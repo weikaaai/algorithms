@@ -7,7 +7,7 @@ int fib(int num)
     int *res = (int*)malloc((num + 1) * sizeof(int));
     res[0] = 0;
     res[1] = 1;
-    for(int i = 2; i <= num ; i++)
+    for(int i = 2; i <= num; i++)
     {
         res[i] = res[i - 1] + res[i - 2];
     }
