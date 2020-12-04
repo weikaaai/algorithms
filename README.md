@@ -1,4 +1,4 @@
 # Algorithms
 
-## factorial - calculate factorial
-## fib - calculate fibonacci sequence
+### factorial - calculate factorial
+### fib - calculate fibonacci sequence
