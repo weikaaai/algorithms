@@ -1,6 +1,2 @@
 .vscode
 .DS_Store
-*.exe
-*.obj
-*.o
-*.c
